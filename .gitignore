@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyCharm / IDE
+.idea/
+*.iml
+*.iws
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries/
+.idea/shelf/
+
+# virtuali aplinka
+.venv/
+venv/
+ENV/
+env/
+pip-selfcheck.json
+
+# logai, laikini failai
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# failai nereikalingi
+zurnalas.pkl
+*.pkl
+*.pdf
+*.txt
+
+# sriftai
+DejaVuSans.ttf
+DejaVuSans-Bold.ttf
+
+# MacOS / Windows siuksles
+.DS_Store
+Thumbs.db
+ehthumbs.db
