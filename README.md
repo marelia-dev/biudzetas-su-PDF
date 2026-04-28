@@ -30,3 +30,17 @@ cd biudzetas-su-PDF
 
 # 2. Paleisti programą
 python biudzetas.py
+
+Sukurti vykdomąjį failą (.exe)
+Repozitorijoje yra paruoštas biudzetas.spec failas:
+Bashpyinstaller biudzetas.spec
+
+Projekto struktūra
+
+biudzetas.py – pagrindinis programos failas
+operacijos/ – aplankas su operacijų moduliais
+biudzetas.spec – PyInstaller konfigūracija
+
+Autorius
+Marijanas Molis
+Python / Django Developer
