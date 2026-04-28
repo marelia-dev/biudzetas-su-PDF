@@ -38,4 +38,5 @@ operacijos/         # aplankas su operacijų moduliais
 biudzetas.spec      # PyInstaller konfigūracija
 
 ## Autorius
-**Marijanas Molis** — Python / Django Developer
+**Marijanas Molis** 
+Python / Django Developer
